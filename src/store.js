@@ -5,4 +5,4 @@ const store = configureStore({
         DataReducer, SelectDataReducer
     }
 })
-export default store;
+export default store;     
